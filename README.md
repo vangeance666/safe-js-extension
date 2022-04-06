@@ -25,4 +25,5 @@ Status should turn "Healthy" on extension popup if server is connectable
 ## Usage
 
 - Right click element with link and click analyse with safe-js
-![click](https://user-images.githubusercontent.com/55984328/162072725-6c618883-ff51-443d-85c4-c7dcf6e54761.gif)
+![click](https://user-images.githubusercontent.com/55984328/162074695-2e5945a2-708b-46f6-9edf-a354efb4d8f8.gif)
+
