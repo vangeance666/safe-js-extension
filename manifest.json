@@ -16,7 +16,7 @@
     "webRequest"
   ],
   "background": {
-    "scripts": ["background/init.js"]
+    "scripts": ["background/menu.js"]
   },
   // "content_scripts": [
   //   {

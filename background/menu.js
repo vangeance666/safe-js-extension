@@ -70,8 +70,8 @@ browser.contextMenus.onClicked.addListener(function(info, tab) {
 				const submitUrl = new URL(apiRunPath, apiUrl)
 				console.log("submitUrl: ", submitUrl);
 
-				submitForAnalysis(info.linkUrl, submitUrl).
-				then(response => {
+				submitForAnalysis(info.linkUrl, submitUrl)
+				.then(response => {
 					console.log("response: ", response);
 				})
 			})
